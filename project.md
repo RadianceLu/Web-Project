@@ -1,6 +1,7 @@
 ##CS5610 Project  
 GitHub Link:  https://github.com/RadianceLu/Web-Project  
-Heroku Link:  https://jielu-cs5610-project.herokuapp.com
+Heroku Link:  https://jielu-cs5610-project.herokuapp.com  
+Youtube Test Link: https://youtu.be/rmLNPy5-L8A
   
 ###Project Description  
 ***
